@@ -20,4 +20,6 @@ Collection of reports (and perhaps some code) from assignments and projects.
   - GeoPandas
 
 **Topic modeling using Latent Dirichlet allocation and Gibb's sampling**  
-- 
+- Modelled topics in "The 20 newsgroups text dataset" from scikit-learn.
+- LDA assumes that topics are characterized by a distribution of words, and that each document is a blend of such distributions.
+- Gibb's sampling approximates the posterior distribution of latent topics for LDA.
