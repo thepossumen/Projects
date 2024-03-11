@@ -1,7 +1,7 @@
 # Projects
 Collection of reports (and perhaps some code) from assignments and projects.
 
-## RAGsyllabi*
+## RAGsyllabi
 - Group project for 4 weeks in the course *Machine learning for Natural Language Processing*.
 - Created a RAG-system for asking questions about course syllabi.
 - Experimented with different Huggingface models using Google Colab
