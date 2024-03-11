@@ -18,3 +18,6 @@ Collection of reports (and perhaps some code) from assignments and projects.
   - QGIS
   - Shapely
   - GeoPandas
+
+**Topic modeling using Latent Dirichlet allocation and Gibb's sampling**  
+- 
