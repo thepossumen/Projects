@@ -1,2 +1,20 @@
 # Projects
-Collection of project reports
+Collection of reports (and perhaps some code) from assignments and projects.
+
+**RAGsyllabi** 
+- Group project for 4 weeks in the course *Machine learning for Natural Language Processing*.
+- Created a RAG-system for asking questions about course syllabi.
+- Experimented with different Huggingface models using Google Colab
+- Worked with quantized models
+
+**Using sparse phone location data to estimate traffic volume and traffic speed**
+- Group project for 8 weeks in the course *Project in Data Science*
+- Used commercial dataset gathered through a large number of different apps and app categories.
+- The dataset:
+  - 2.5 million location trajectories that intersect Gothenburg city.
+  - 13.5 million time-stamped location data points
+  - Between June and December 2019
+- Used open-source tools and Python libraries:
+  - QGIS
+  - Shapely
+  - GeoPandas
