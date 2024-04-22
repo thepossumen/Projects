@@ -8,7 +8,7 @@ Collection of reports (and some code) from assignments and projects.
 - Worked with quantized models
 
 Report: RAGsyllabi_report.pdf  
-Private Github link, need to request access: https://github.com/thepossumen/dit247-nlp/tree/main/project
+Code directory: RAGsyllabi_code
 
 ## Using sparse phone location data to estimate traffic volume and traffic speed
 - Group project for 8 weeks in the course *Project in Data Science*
@@ -23,7 +23,7 @@ Private Github link, need to request access: https://github.com/thepossumen/dit2
   - GeoPandas
 
 Report: Gbg_traffic_volume_and_speed_report.pdf  
-Private Github link, need to request access: https://github.com/thepossumen/Project-in-Data-Science
+Code directory: Gbg_traffic_volume_and_speed_code
 
 ## Topic modeling using Latent Dirichlet allocation and Gibb's sampling
 - Group assignment for 2 weeks in the course *Machine learning for Natural Language Processing*.
